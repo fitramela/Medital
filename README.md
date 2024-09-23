@@ -9,37 +9,47 @@ This project is a single-page web application that allows users to search for we
 ### 1. Clone the repository:
 
 Clone the repository by running the following command in your terminal:
+```json
 git clone https://github.com/fitramelaniarais/Medital.git
-
+```
 ### 2. Go to app
 
 Go to wather-search-app by copying
+```json
 cd weather-search-app
+```
 
 ### 3. Install dependencies:
 
 After cloning the repository, navigate to the project directory in your terminal and run the following command to install the required dependencies:
+```json
 npm i
-
+```
 
 ### 4. Run the proggram
 
 Run the proggram by copying this code
+```json
 npm run dev
+```
 
 ### 5. PORT
 
 Open this following port
+```json
 http://localhost:5173/
+```
 
 ### 6. Add API-KEY
 
 Add your own API-KEY in .env file. You can see the .env.example for the key name.
+```json
 VITE_OPENWEATHER_API_KEY=
-
+```
 or if dont have api-key just use mine
 ac7e941a35e89453122ff41bd32ea045
 
+### Example screenshot : 
 ![gambar awal](image.png)
 
 ![gambar hasil search](image-1.png)
