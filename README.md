@@ -46,8 +46,10 @@ Add your own API-KEY in .env file. You can see the .env.example for the key name
 ```json
 VITE_OPENWEATHER_API_KEY=
 ```
-or if dont have api-key just use mine
+or if you dont have api-key just use mine
+```json
 ac7e941a35e89453122ff41bd32ea045
+```
 
 ### Example screenshot : 
 ![gambar awal](image.png)
